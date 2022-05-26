@@ -1,4 +1,6 @@
 # Restore-Win10-Icons-To-Win11
+MAKE A BACKUP OF YOUR IMAGERES.DLL.MUN BEFORE DOING THIS
+THIS GUIDE WORKS FOR WIN 7 ICONS TOO
 Step 1: Download the attached file here:
 
 Step 2: Open cmd as admin

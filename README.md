@@ -1,3 +1,8 @@
+# HEADS-UP
+
+There is a website named ilovefreesoftware.com that is using this repo without my permission! If you came from there
+it would be great if you could leave a comment about it, thanks!
+
 # Restore-Win10-Icons-To-Win11
 MAKE A BACKUP OF YOUR IMAGERES.DLL.MUN BEFORE DOING THIS
 
